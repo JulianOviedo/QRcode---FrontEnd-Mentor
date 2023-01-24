@@ -51,4 +51,8 @@
     .card-info--title {
         font-size: 25px;
     }
+
+    .card {
+        height: 550px;
+    }
 }
